@@ -5,7 +5,7 @@ If you can't, use the stl files
 
 <h4>WARNING!</h4>
 The models have some issues. Some holes are too small, and some are missing.
-Printing takes about 15 hours (0.4mm nozzle), so print at your own risk.<br><br>
+Printing takes about 15 hours (0.4mm nozzle), so print at your own risk. (don't worry, i will change that later)
 
 
 <h2>Dimensions</h2>
