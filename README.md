@@ -1,6 +1,3 @@
-<h3>ESP32 Computer</h3>
-By TimiksOMG<hr>
-
 This is an open source computer with a custom language called TimCode and a DOS-like operating system called HamburgerOS<br>
 
 It uses the <b>esp32-s3</b> chip with the <b>ILI9341</b> tft screen as a display.<br>
