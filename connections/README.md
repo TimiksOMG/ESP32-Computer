@@ -10,8 +10,11 @@
   <li>RST-4</li>
 </ul>
 <h3>Warning</h3>
-You must replace <b>User_Setup.h</b> and <b>Setup42_ILI9341_ESP32.h</b> in the tft_espi library folder with which are presented here<br><br>
-
+You must replace <b>User_Setup.h</b> and <b>Setup42_ILI9341_ESP32.h</b> in the tft_espi library folder with which are presented here<br>
+<ul>
+  <li>User_Setup.h is located in TFT_eSPI/</li>
+  <li>Setup42_ILI9341_ESP32.h is located in TFT_eSPI/User_setups/</li>
+</ul>
 
 <h2>DS1302 (rtc)</h2>
 <ul>
