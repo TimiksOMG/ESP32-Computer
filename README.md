@@ -7,6 +7,20 @@ It uses the <b>esp32-s3</b> chip with the <b>ILI9341</b> tft screen as a display
 I made a custom programming language called <b>TimCode</b> for it so i can code the apps without compiling them.<br>
 This also makes it easy to change the apps, as you don't have to change the firmware<br><br>
 
+You can edit the project, or make a program in TimCode and i will make a video about it.<br>
+Critique and questions appreciated. <br><br>
+
+
+<h1>Price</h1>
+<h6>I bought everything off aliexpress, so it's pretty cheap<br> Note: Prices are without shipping</h6>
+<ul>
+  <li><a href="https://aliexpress.ru/item/1005005046708221.html">ESP32 s3 - 345₽ / 4.29$</a></li>
+  <li><a href="https://aliexpress.ru/item/1005004147439619.html">3.5in display - 471₽ / 5.86$</a></li>
+  <li><a href="https://aliexpress.ru/item/1654409370.html">SD module - 36₽ / 0.45$</a></li>
+  <li><h6>keyboard not ready yet</h6></li>
+</ul><br><br>
+
+
 
 <h1>Console commands</h1>
 <h6>parameter(p) means optional.</h6>
