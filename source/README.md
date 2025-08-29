@@ -1,7 +1,3 @@
-<h1>PLEASE HELP ME WITH THE CODE!</h1>
-For some reason the sd card doesn't work properly, so it would be great if you helped me fix it!<br><br>
-
-
 <h1>Console and TimCode</h1>
 TimCode and the console are linked, to run TimCode code, every line gets sent to console, and processed like a normal command<br>
 
