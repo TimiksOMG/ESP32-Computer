@@ -16,6 +16,14 @@ You must replace <b>User_Setup.h</b> and <b>Setup42_ILI9341_ESP32.h</b> in the t
   <li>Setup42_ILI9341_ESP32.h is located in TFT_eSPI/User_setups/</li>
 </ul>
 
+<h2>SD module (SPI, only for esp32 s3)</h2>
+<ul>
+  <li>CS-5</li>
+  <li>SCLK-10</li>
+  <li>MISO-8</li>
+  <li>MOSI-3</li>
+</ul>
+
 <h2>DS1302 (rtc)</h2>
 <ul>
   <li>CLK-15</li>
