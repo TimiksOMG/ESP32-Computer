@@ -14,10 +14,16 @@ Critique and questions appreciated. <br><br>
 <h1>Price</h1>
 <h6>I bought everything off aliexpress, so it's pretty cheap<br> Note: Prices are without shipping</h6>
 <ul>
+  <h5>Main parts</h5>
   <li><a href="https://aliexpress.ru/item/1005005046708221.html">ESP32 s3 - 345₽ / 4.29$</a></li>
   <li><a href="https://aliexpress.ru/item/1005004147439619.html">3.5in display - 471₽ / 5.86$</a></li>
   <li><a href="https://aliexpress.ru/item/1654409370.html">SD module - 36₽ / 0.45$</a></li>
-  <li><h6>keyboard not ready yet</h6></li>
+
+  <h5>Keyboard</h5>
+  <li><a href="https://aliexpress.ru/item/1005003115135192.html?spm=a2g2w.orderdetail.0.0.45364aa6PGpmvE&sku_id=12000024181858329">Buttons DIP4 H20MM 50 parts - 153₽ / 1,88$</a></li>
+  <li><a href="https://aliexpress.ru/item/1005008763981613.html">One-sided breadboard 10x20cm - 82₽ / 1$</a></li>
+  <li><a href="https://aliexpress.ru/item/1005005046708221.html">ESP32 s3 - 345₽ / 4.29$</a></li>
+  <h6>You can use any controller for the keyboard</h6>
 </ul><br><br>
 
 
